@@ -18,7 +18,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.doni.tubes_akb.MainActivity"
+            android:name="com.example.rizki.tubes_akb.MainActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,7 +27,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.doni.tubes_akb.SplashActivity"
+            android:name="com.example.rizki.tubes_akb.SplashActivity"
             android:theme="@style/SplashTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -35,9 +35,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.doni.tubes_akb.Profil" />
-        <activity android:name="com.example.doni.tubes_akb.tambahteman" />
-        <activity android:name="com.example.doni.tubes_akb.LoadActivity" />
+        <activity android:name="com.example.rizki.tubes_akb.Profil" />
+        <activity android:name="com.example.rizki.tubes_akb.tambahteman" />
+        <activity android:name="com.example.rizki.tubes_akb.LoadActivity" />
     </application>
 
 </manifest>
